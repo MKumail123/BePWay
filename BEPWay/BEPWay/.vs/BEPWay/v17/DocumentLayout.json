@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice\\BEPWay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\constant\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\constant\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\datacontext\\bepcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\datacontext\\bepcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\repositories\\userpackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\repositories\\userpackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\controllers\\userpackagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\controllers\\userpackagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\models\\dto\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\models\\dto\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\models\\domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\models\\domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\models\\domain\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\models\\domain\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\interfaces\\ipackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\interfaces\\ipackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\repositories\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\repositories\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\models\\domain\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\models\\domain\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\models\\dto\\bankreponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\models\\dto\\bankreponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\models\\dto\\packageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\models\\dto\\packageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\models\\domain\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\models\\domain\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\models\\domain\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\models\\domain\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\models\\domain\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\models\\domain\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\mapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\mapper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\bepway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\bepway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|d:\\practice\\bepway\\bepway\\migrations\\20240523164403_userrole seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E763F2-E57C-4212-81FB-B37D752BD02C}|BEPWay\\BEPWay.csproj|solutionrelative:bepway\\migrations\\20240523164403_userrole seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BEPWay\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAWwDoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:33:43.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserPackageController.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Controllers\\UserPackageController.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Controllers\\UserPackageController.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Controllers\\UserPackageController.cs",
+              "RelativeToolTip": "BEPWay\\Controllers\\UserPackageController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:22:07.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserPackageRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Repositories\\UserPackageRepository.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Repositories\\UserPackageRepository.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Repositories\\UserPackageRepository.cs",
+              "RelativeToolTip": "BEPWay\\Repositories\\UserPackageRepository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAADwv00AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:23:11.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Constant\\FileUpload.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Constant\\FileUpload.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Constant\\FileUpload.cs",
+              "RelativeToolTip": "BEPWay\\Constant\\FileUpload.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:53:06.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileUploadDTO.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Models\\DTO\\FileUploadDTO.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Models\\DTO\\FileUploadDTO.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Models\\DTO\\FileUploadDTO.cs",
+              "RelativeToolTip": "BEPWay\\Models\\DTO\\FileUploadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:54:12.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BEPWay\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:03:54.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Models\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Models\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Models\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "BEPWay\\Models\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:05:26.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BEPWay\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:06:12.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BEPContext.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\DataContext\\BEPContext.cs",
+              "RelativeDocumentMoniker": "BEPWay\\DataContext\\BEPContext.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\DataContext\\BEPContext.cs",
+              "RelativeToolTip": "BEPWay\\DataContext\\BEPContext.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAswI4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:05:43.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Program.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Program.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Program.cs",
+              "RelativeToolTip": "BEPWay\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:38:37.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\UserRole.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Models\\Domain\\UserRole.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\UserRole.cs",
+              "RelativeToolTip": "BEPWay\\Models\\Domain\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:16:09.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240523164403_UserRole seed.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Migrations\\20240523164403_UserRole seed.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Migrations\\20240523164403_UserRole seed.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Migrations\\20240523164403_UserRole seed.cs",
+              "RelativeToolTip": "BEPWay\\Migrations\\20240523164403_UserRole seed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:44:03.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\Role.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Models\\Domain\\Role.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\Role.cs",
+              "RelativeToolTip": "BEPWay\\Models\\Domain\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:39:36.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "BEPWay\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:44:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PackageController.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Controllers\\PackageController.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Controllers\\PackageController.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Controllers\\PackageController.cs",
+              "RelativeToolTip": "BEPWay\\Controllers\\PackageController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:14:42.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPackageRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Interfaces\\IPackageRepository.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Interfaces\\IPackageRepository.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Interfaces\\IPackageRepository.cs",
+              "RelativeToolTip": "BEPWay\\Interfaces\\IPackageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:09:32.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Package.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\Package.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Models\\Domain\\Package.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\Package.cs",
+              "RelativeToolTip": "BEPWay\\Models\\Domain\\Package.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:40:35.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PackageRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Repositories\\PackageRepository.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Repositories\\PackageRepository.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Repositories\\PackageRepository.cs",
+              "RelativeToolTip": "BEPWay\\Repositories\\PackageRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:09:46.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\Bank.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Models\\Domain\\Bank.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\Bank.cs",
+              "RelativeToolTip": "BEPWay\\Models\\Domain\\Bank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:39:01.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BankReponseDTO.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Models\\DTO\\BankReponseDTO.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Models\\DTO\\BankReponseDTO.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Models\\DTO\\BankReponseDTO.cs",
+              "RelativeToolTip": "BEPWay\\Models\\DTO\\BankReponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:17:04.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PackageResponseDTO.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Models\\DTO\\PackageResponseDTO.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Models\\DTO\\PackageResponseDTO.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Models\\DTO\\PackageResponseDTO.cs",
+              "RelativeToolTip": "BEPWay\\Models\\DTO\\PackageResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:11:04.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\BaseModel.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Models\\Domain\\BaseModel.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\BaseModel.cs",
+              "RelativeToolTip": "BEPWay\\Models\\Domain\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:53:11.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Level.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\Level.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Models\\Domain\\Level.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Models\\Domain\\Level.cs",
+              "RelativeToolTip": "BEPWay\\Models\\Domain\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:42:49.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\appsettings.json",
+              "RelativeDocumentMoniker": "BEPWay\\appsettings.json",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\appsettings.json",
+              "RelativeToolTip": "BEPWay\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T03:35:40.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Models\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Models\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Models\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "BEPWay\\Models\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:42:04.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\Mapper\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "BEPWay\\Mapper\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\Mapper\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "BEPWay\\Mapper\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:06:02.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BEPWay.csproj",
+              "DocumentMoniker": "D:\\Practice\\BEPWay\\BEPWay\\BEPWay.csproj",
+              "RelativeDocumentMoniker": "BEPWay\\BEPWay.csproj",
+              "ToolTip": "D:\\Practice\\BEPWay\\BEPWay\\BEPWay.csproj",
+              "RelativeToolTip": "BEPWay\\BEPWay.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T07:36:01.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
